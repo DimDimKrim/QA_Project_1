@@ -1,5 +1,5 @@
 def greeting():
     name = input("Введите имя:")
-    print("Привет, " + name)
+    print("Привет-Привет! " + name)
 
 greeting()
